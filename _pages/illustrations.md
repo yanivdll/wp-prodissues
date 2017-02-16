@@ -8,4 +8,4 @@ layout: page
 permalink: http://prodissues.com/illustrations
 published: true
 ---
-[gallery ids="1091,1092,1095"]
+[gallery ids="1091,1092,1095,1103,1104"]

@@ -1,13 +1,13 @@
 ---
 ID: 1115
-post_title: 'It&#8217;s Time To Move On'
+post_title: Time To Move On
 author: Yaniv
-post_date: 2017-08-03 12:16:48
 post_excerpt: ""
 layout: post
 permalink: >
   http://prodissues.com/2017/08/its-time-to-move-on.html
 published: true
+post_date: 2017-08-03 12:16:48
 ---
 Tomorrow will be my last day at Outbrain. Here's my goodbye note.
 <blockquote><span style="font-weight: 400;">Hi all,</span>

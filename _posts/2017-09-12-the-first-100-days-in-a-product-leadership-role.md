@@ -1,8 +1,6 @@
 ---
 ID: 1123
-post_title: >
-  The First 100 Days in a Product
-  Leadership Role
+post_title: 'Product Leader&#8217;s First 100 Days Plan'
 author: Yaniv
 post_excerpt: ""
 layout: post

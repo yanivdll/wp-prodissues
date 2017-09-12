@@ -16,6 +16,8 @@ Drafting this plan was one of the better ways I could prepare for the new role. 
 
 As I'm about to hit the first 30 days mark, its time to revisit this plan, and see where I stand against it. Doing so, I've figured it might be a good idea to share my plan. Hopefully someone finds it helpful, and\or share their own ideas.
 
+<!--more-->
+
 There are two perspectives through which I think of the different time horizons in that exercise:
 <ul>
  	<li>Learn, plan, execute</li>

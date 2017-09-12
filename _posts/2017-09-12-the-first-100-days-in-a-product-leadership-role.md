@@ -136,7 +136,7 @@ Here's a <a href="https://docs.google.com/document/d/1h-0g8ZenD578LlUsCkJ1ndxjX1
 </ul>
 <h3><b>Product Development Process</b></h3>
 <ul>
- 	<li style="font-weight: 400;"><span style="font-weight: 400;">Button's "product development manifesto"</span></li>
+ 	<li style="font-weight: 400;"><span style="font-weight: 400;">Write a "product development manifesto"</span></li>
 </ul>
 
 <hr />

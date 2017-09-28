@@ -11,7 +11,7 @@ post_date: 2017-09-27 23:22:21
 ---
 Today I had one of the toughest chats I can remember, trying to get through to an engineer in my team.
 
-One of the challenges a new PM faces is building rapport with the engineers. This might be a bigger challenge if those engineers didn’t worked with a PM before, or if they did, and got burned by following bad product decisions, or building failed products.
+One of the challenges a new PM faces is building rapport with the engineers. This might be a bigger challenge if those engineers didn’t worked with a PM before, or  did, but got burned by following bad product decisions, or building failed products.
 
 I'm not sure what's the situation I’ve entered, but I do need to build trust. I'm not worried, though. I’ve been in that situation many times before; I’ll be OK. I’m also a CS graduate, and can talk the talk if needed. However, with this guy things are a bit different.
 

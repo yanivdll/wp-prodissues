@@ -22,9 +22,9 @@ Since reading the book <a href="https://www.goodreads.com/book/show/25980294-dee
 
 Not much use, and it definitely not warrants a 1099$ new phone.
 
-But the truth is my phone doesn’t work great. I mean, it looks new, but doesn’t function as one. I'm using iOS 11, which apparently doesn’t play well with iPhone 6. My phone is slow. It hangs and lags frequently, mainly when I open iMessage or the camera app. It also has some serious battery issues. I might say that I have more than 50% battery, but a second later the battery drops to 13%. Another minute and my phone shuts off. Moreover, to make it through the day, I need to charge it at least twice.
+But the truth is my phone doesn’t work great. I mean, it looks new, but doesn’t function as one. I'm using iOS 11, which apparently doesn’t play well with iPhone 6. My phone is slow. It hangs and lags frequently, mainly when I open iMessage or the camera app. It also has some serious battery issues. I might have more than 50% battery, but then a second later the battery drops to 13%. Another minute and my phone shuts off. Moreover, to make it through the day, I need to charge it at least twice.
 
-And yet, I’m reluctant to give up on it. I don’t like the conditioning of buying a new iPhone just because mine is 2 years old, and want out of the Apple marketing machine. More importantly, I don’t want to risk my “distraction diet”.
+And yet, I’m reluctant to give up on it. I don’t like the conditioning of buying a new iPhone just because mine is 2 years old, and I want to pull myself out of the Apple marketing machine. More importantly, I don’t want to risk my “distraction diet”.
 
 So, I’m making an attempt to revive my iPhone. My strategy:
 
